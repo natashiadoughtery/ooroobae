@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://kohxooque.headtilt.me/sitemap.xml
